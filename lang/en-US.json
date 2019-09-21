@@ -1,0 +1,206 @@
+{	
+	"menu" : {
+		"home": "home",
+		"recordings": "recordings",
+		"listen": "Listen",
+		"collaborations": "collaborations",
+		"programs": "programs",
+		"biography": "biography",
+		"contact": "contact"
+	},
+	"home": {
+		"meta": {
+			"title": "Edna Stern | Pianist",
+			"description": "Edna Stern, pianist, fortepiano and authentic instruments performer, chamber musician and soloist"
+		},
+		"title": "Pianist",
+		"content": {
+			"fr": {
+				"quote1": "“Son amour de la musique s’exprime dans son besoin absolu de jouer et dans la joie avec laquelle elle joue. Son talent inné, sa personnalité, et sa curiosité permanente en font une grande artiste.”",
+				"writer1": "Krystian Zimerman",
+				"quote2": "“Vive et méditative… Stern extrait de la magie de son instrument.”",
+				"writer2": "Geoff Brown, The Times, UK.",
+				"quote3": "“Son jeu au piano porte déjà la marque des trois grands pianistes qui l’ont façonnée et dont elle a su réaliser une improbable synthèse : le panache de Martha Argerich, la musicalité de Leon Fleisher et l’impeccable finition de Krystian Zimerman.”",
+				"writer3": "Jérôme Bastianneli, Magazine Diapason"
+			},
+			"en": {
+				"quote1": "“Her love of music that manifests itself in the absolute necessity to play and in the joy with which she plays, her inborn talent and great personality, her curiosity for searching for the new, all of these provide for the making of a great artist.”",
+				"writer1": "Krystian Zimerman",
+				"quote2": "“Mercurial and meditative… Stern extracts magic from her instrument.”",
+				"writer2": "Geoff Brown, The Times, UK.",
+				"quote3": "“Her piano playing bears the mark of three great pianists who formed her and of whom she managed to create an improbable synthesis: The panache of Martha Argerich, the musicality of Leon Fleisher and the impeccable finish of Krystian Zimerman.”",
+				"writer3": "Jérôme Bastianneli, Magazine Diapason"
+			}
+		},
+		"more": {
+			"fr": "Voir plus...",
+			"en": "See more..."
+		}
+	},
+	"recordings": {
+		"meta": {
+			"title": "Edna Stern | Recordings",
+			"description": "Reference recordings with labels Ars Produktion, Aparté, Air Note,  AudioNote Music, Luna, Naïve, Orchid Classics et ZigZag Territoires."
+		},
+		"title": "Note on the recording process:",
+		"p1": "A lot can be written over the quest after “perfection.” My favorite recordings belong to that time when editing was complicated and used very lightly.",
+		"p2": "I believe that todays’ massive use of editing in correcting each little mistake and imperfection, or by placing “magic moments” one after another, has done more to hinder music than to serve it.",
+		"p3": "As time goes by, I tend to use editing less and less in my recordings and prefer to use full takes for each movement, even if it means leaving some imperfections. I am convinced that the price of editing comes at the expense of the very life of the music and of the record. I hope that the next step will be for me to record in analog, to be continued!",
+		"next": {
+			"title": "Her next recording will be:",
+			"r1": "<b>Johann Simon Mayr 2 Piano Concerti</b>, recorded with the Georgian Chamber Orchestra of Ingolstadt and conductor Ruben Gazarian with label Ars Production"
+		},
+		"records": {
+			"title": "Records",
+			"r1": {
+				"title": "<b>The Young Ludwig van Beethoven 3 Sonatas Op. 10:</b> To be released by the label AudioNote Music in February 2020"
+			},
+			"r2": {
+				"title": "<b>Fire of Black and White:</b> To be released by the label AudioNote Music in February 2020"
+			},
+			"r3": {
+				"title": "<b>Hélène de Mongeroult:</b> Recorded in 2017, Philharmonie de Paris, published by Orchid Classic",
+				"quotes": {
+					"q1": "“Twelve beguiling studies, a fine “Thème varié dans le genre moderne” and a far from staid F minor fugue complete Stern’s revealing and affectionate recital, given on a silvery 1860 Pleyel.” <b>Sunday Times February 5th 2017</b>",
+					"q2": "“Edna Stern deserves the highest praise for resurrecting it, and has the fleet fingers and sensitive musicianship necessary to make the very best case for it.”<b>Gramophone Magazine</b>"
+				}
+			},
+			"r4": {
+				"title": "<b>Me-Su-Bach:</b> Recorded in 2015, Théâtre Impérial de Compiègne, published by Orchid Classics",
+				"quotes": {
+					"q1": "“[…] an unabashedly Romantic and ravishingly pianistic attitude to this composer that has long passed into history. Few modern pianists can pull off such an approach, but Stern’s sincerity, conviction, and masterful control of the concert grand was both disarming and mesmerizing.“ <b>Jed Distler, Classics Today, October 26, 2015</b>"
+				}
+			},
+			"r5": {
+				"title": "<b>Beethoven Tempest:</b> Recorded in 2014, Théâtre Impérial de Compiègne, published by Luna",
+				"quotes": {
+					"q1": "“Edna Stern belongs to an age group where the audacity of youth establishes itself in a maturity, which does not yet pretend the wisdom of old-age. The result is a reading of Beethoven’s masterpieces which is both daring and authoritative, on a piano which is played not with one’s fingers but with one’s ears... Like the composer, the interpreter makes a strong point of cultivating subjectivity... Summing it all, a Beethoven authentically universal.” <b>Le Monde, décembre 2014</b>"
+				}
+			},
+			"r6": {
+				"title": "<b>Beethoven Appassionata:</b> Recorded in 2014, Théâtre Impérial de Compiègne, published by Luna"
+			},
+			"r7": {
+				"title": "<b>Piano of Enlightenment:</b> Recorded in 2013, Studio Ishtar, Milan, published by Air Note",
+				"quotes": {
+					"q1": "“The pianist Edna Stern assembles Mozart, Galuppi, Haydn, C.P.E. Bach, composers of luminous sounds, in her interpretation emphasizing the play of shadow and light. The sound, all in lightness, draws one's attention particularly to the deep and transcendent aspect of the chosen pieces. How beautiful are those Galuppi sonatas, with their arpeggios running naturally under the fingers! The Variations Ah! Vous dirai-je maman, retain a childish hue in a playing full of elasticity. The subtle approach of Edna Stern, enlightens the rich and complex polyphony of J.S. Bach's Fantasy in C minor, and the two works by Haydn and C.P.E Bach's Fantasy complete this recording of impeccable elegance.” <b>Péché Classique</b>"
+				}
+			},
+			"r8": {
+				"title": "<b>Mozart Concerti:</b> Recorded in 2010, Opéra de Vichy, published by Zig-Zag Territoires Outhere",
+				"quotes": {
+					"q1": "“Edna Stern’s playing is extraordinary in finesse and invention. The impression is that the pianist playing is not subjected to gravity.” <b>Christoph Huss, classicstodayfrance.com, September 2010</b",
+					"q2": "“It is fascinating to hear Edna Stern’s perfect, mature and effortless technique, which she does not however use for the purpose of bragging, but puts discreetly at the service of music. She succeeds to the extent of completely disappearing behind the music... developing a whole unexpected wealth of nuances and a variety of tone colors.”",
+					"q3": "“...a spontaneous joyful playing with beauty and respect: my Mozart-Ideal through this CD has become much closer.” <b>Attila Csampai, Bayrische Rundfunk, November 2010</b>"
+				}
+			},
+			"r9": {
+				"title": "<b>Chopin recital:</b> Recorded in 2010, Philharmonie de Paris, published by Naïve",
+				"quotes": {
+					"q1": "“The subtle chemistry of a successful Chopin. This CD has eclipsed all that we’ve heard so far in the commemoration of the bicentenary of Chopin’s birth.” <b>Katchi Sinna, Muzikzen.fr, May 2010</b>",
+					"q2": "“Edna Stern, an exquisite and subtle narrator, is far from any invading rhetoric conception, proposes more than imposes, suggests more than commands, and shows without showing off. Thus, she has made us entirely receptive, open to our own sensations, free to hear our own Chopin. A music beyond music.” <b>Gérard Abrial, easyclassic.com, May 2010</b>"
+				}
+			},
+			"r10": {
+				"title": "<b>Chopin chamber music:</b> Recorded in 2010, Ircam de Paris, published by Apart",
+				"quotes": {
+					"q1": "“This tasteful alliance of sounds is at the base of a sensible and mysterious interpretation, which yet does not lessen the tensions and intensity that punctuates this crepuscular score [piano and cello sonata Chopin op 65]. ...though we appreciate even more the two Nocturnes that Edna Stern interprets alone, using all the expressivity of her piano: to hear the finest nuances, these half tainted phrasings, we understand why Chopin was particularly affectionate of the Pleyel.” <b>Jérôme Bastianelli, Diapason, April 2010</b>"
+				}
+			},
+			"r11": {
+				"title": "<b>Bach “Nun komm’ der Heiden Heiland”:</b> Recorded in 2009, Studio Sequenza, published by Zig-Zag Territoires Outhere",
+				"quotes": {
+					"q1": "Few modern pianists can pull off this approach, but Stern’s sincerity, conviction and masterful control of the instrument prove utterly disarming... Stern’s rubato in the E minor Fugue dismantles the work’s toccata-like drive, as if Pablo Casals’s cello bow was guiding her fingers... In short, a disc that will cause unrepentant pianophiles to jump for joy...”.” <b>Jed Distler, Gramophone, July 2009</b>",
+					"q2": "“...here are some of the techniques used by this formidably curious musician, to achieve a unique touch, the grace of which gives a re-introduction to these frequently played works.” <b>Jérôme Bastianelli, Diapason, March 2009</b>",
+					"q3": "“Edna Stern dares a very personal Bach, of a Romanism without false delicacy, generously enriched with pedal, highly studied but exempt from all narcissism.” <b>Diapason, March 2009</b>",
+					"q4": "“With Edna Stern we avoid the clichés. Her playing is neither romantic nor baroque. It takes on perfectly the serious tone of the composer without falling into coldness or rigidity. It is at the same time an instrumental revelation and a clear sign that music is indeed alive.” <b>Mathias Heizmann, Arte, February 2009</b>",
+					"q5": "“Edna Stern plays a few Preludes and Fugues, she adorns her musical itinerary with chorales, rendering an organic thought process of a rare intelligence.” <b>Renaud Machart, Le Monde, January 30th 2009</b>"
+				}
+			},
+			"r12": {
+				"title": "<b>Schumann “Fantasy”:</b> Recorded in 2007, Eglise du Temple, published by Zig-Zag Territoires Outhere",
+				"quotes": {
+					"q1": "“Schumann’s Fantasy op. 17 is heard petrified by emotion. The pianist gives us here a rendering equal in inspiration with the greatest... Indisputably, Edna Stern is a great artist!”  <b>Alain Lompech, Diapason, February 2007</b>",
+					"q2": "“The opening of the great Fantasy is not the usual call to arms but the cry of a heart stricken by separation, the ensuing mood swings vividly portrayed, and I never heard the middle movement better played... Stern has the qualities of a great artist: virtuosity, imagination and passion.”  <b>Joe Laredo, International Piano Magazine, UK, June 2007</b>",
+					"q3": "“To summarize, here is a great disc from a great pianist, impressive in her mastery and musicality from beginning to end. We demand more!” <b> Richard Holding, ResMusica.com, February 26th 2007</b>",
+					"q4": "“Edna Stern gives us an inspired interpretation... She moves with ease and fluidity throughout Schumann’s scores and finds an exemplary balance between the planned structure and spontaneity. And what poetry in her atmospheres!” <b>Jérémie Szpirglas, Le Monde de la Musique, March 2007</b> "
+				}
+			},
+			"r13": {
+				"title": "<b>Bach “Chaconne”:</b> Recorded in 2005, Church of Boswill, Switzerland, published by Zig-Zag Territoires Outhere",
+				"quotes": {
+					"q1": "“Here is one of the most fascinating piano CD’s in the last years.” <b>Le Figaro, August 4th 2005</b>",
+					"q2": "“Edna Stern expresses with great talent [the change from violin to the great piano of the XIXth Century] through her use of the pedal which bestows sensibility to this voyage of sounds, merging the melodic metamorphosis into a wonderful halo. Her work on sonority is just as eloquent, with, for instance, her crystalline tone preceding an ultimate and supernatural radiance.” <b>Pierre Gervasoni, Le Monde, May 24th 2005</b> ",
+					"q3": "“There is rigour, but without a hint of coldness, but on the contrary, a large palette of colours and massive variety of tone. Allying poetry and splendorous tone colour, Edna Stern charms by efficient virtuosity without it being demonstrative (...) She is guiding us through an unreal world of contrasting emotions that we would never like to leave. Mastery, intelligence, engaged sound: all is here to keep us hanging on her every note. ... An excellent pianist, but above all a musician, Edna Stern has here won us completely, and we are looking forward to hearing her again.” <b>Antoine Mignon, Classica-Répertoire, July 2005</b>",
+					"q4": "“...her fantasy, panache and gusto light up the romantic lyricism and gothic passion Busoni’s score overflows with....In the rigorous arrangement of Brahms, the pianist avoids all dryness thanks to her polyphonic approach and the depth of her playing.” <b>Jérôme Bastianelli, Diapason, July 2005</b>"
+				}
+			},
+			"r14": {
+				"title": "<b>C.P.E. Bach pianoforte and violin Sonatas:</b> Recorded in 2005, Prague, published by Zig-Zag Territoires Outhere",
+				"quotes": {
+					"q1": "“Both artists sing, as well with the bow as with the keyboard, and extract from these pages a plenitude of sounds, colours as well as quasi vocal lines that transcend the pieces. The pianoforte leads the way with a directive hand, answering with precision to the brilliant and musical violin, and takes over beautifully the sound space. A feat by these two musicians.”  <b>C.W. A Nous Paris</b>"
+				}
+			}
+		}
+	},
+	"listen": {
+		"meta": {
+			"title": "Edna Stern | Listen",
+			"description": "Extraits des cds: Bach, Chopin, Beethoven..."
+		},
+		"title": "You can listen to Edna’s discs on Itunes and Amazon:"
+	},
+	"programs": {
+		"meta": {
+			"title": "Edna Stern | Programs",
+			"description": "Edna Stern, pianist, fortepiano and authentic instruments performer, chamber musician and soloist"
+		},
+		"title": "I enjoy playing in concerts all those programs and pieces I have recorded, and I also like to create new programs and new combinations suiting the wishes, thematics and context. For more information, please contact my agent: <b>contact@con-anima-agency.com</b> - <b>+33 6 03 49 69 50.</b>"
+	},
+	"biography": {
+		"meta": {
+			"title": "Edna Stern | Biography",
+			"description": "Edna Stern has performed in the Roque d'Anthéron, Folles Journées ofNantes, London City Festival, at the Paris Philharmonie"
+		},
+		"articles": {
+			"a1": {
+				"title": "About",
+				"contents": {
+					"c1": "Edna Stern began her studies in Israel with Viktor Derevianko, a student of Heinrich Neuhaus. She continued studying with Krystian Zimerman at the Basel Hochschule and with Leon Fleisher at the Peabody Institute and at the Lake Como International Piano Foundation. Her repertoire ranges from Bach to Berio. Her recordings are highly praised by critics, receiving such awards as Diapason d’Or, Diapason Découverte, Arte Best CD, Gramophone upcoming artist, and Sélection Le Monde. Her last recording, dedicated to Hélène de Montgeroult received a Critic’s Choice of the Year 2017 of the Gramophone Magazine and Choice of France Musique, the French radio.",
+					"c2": "Edna Stern has performed at prestigious halls and festivals such as the Philharmonie of Paris, Concertgebouw of Amsterdam, Munich’s Hekulessaal, Paris’ Châtelet Theater, Moscow’s Music-House, Petronas in Kuala Lumpur and Musashino hall in Tokyo; performing in solo recitals and with orchestras, with conductors such as Claus Peter Flor and Andris Nelsons. Stern gives masterclasses all over the world, in such places as the CNSM of Paris, Rutgers University, and Tel-Aviv Zubin Mehta School of Music.",
+					"c3": "She has been a professor at the Royal College of London since 2009 and her musical activities include working with great artists in other art fields, like film director Amos Gitaï, as well as Etoile/Leading principal dancer from the Paris Opera, Agnès Letestu."
+				}
+			},
+			"a2": {
+				"title": "Musical Profile",
+				"contents": {
+					"c1": "Stern built a reputation as an interpreter who does not shrink from taking strong and unconventional stands and at the same time respectful of the historical tradition of interpretation and the heritage of her own teachers. She is especially known for her Bach interpretation which received awards and critical praise throughout Europe (Gold Diapason, Arte best cd, 10/10 ClassicToday, 4 stars Classica Magazine).",
+					"c2": "<i>“With Edna Stern we avoid the clichés. Her playing is neither romantic nor baroque. It takes on perfectly the serious tone of the composer without falling into coldness or rigidity. It is at the same time an instrumental revelation and a clear sign that music is indeed alive.”</i> - <b>Mathias Heizmann, Arte/2009</b>",
+					"c3": "While studying with Krystian Zimerman at the Basel Hochschule in Switzerland, she also took advantage of the famous Schola Cantorum Basilensis and its collection of authentic instruments, developing thus another facet to her musical approach. For the 2010 celebration of the birth of Chopin, Paris’ museum of instruments of the Paris Philharmonie, she was chosen as the pianist to record for their series on the museum’s original instrument, a Pleyel from 1842. This recording was released with Naïve and got enthusiastic reviews: ",
+					"c4": "<i>“The subtle chemistry of a successful Chopin. This CD has eclipsed all that we’ve heard so far in the commemoration of the bicentenary of Chopin’s birth.”</i> - <b>Katchi Sinna, Muzikzen 2010</b>',",
+					"c5": "Her interest in different instruments and sounds set her apart as a Mozart player and her recording of Mozart’s Concerti was chosen in France by the newspaper Le Monde as one of the 10 top CD’s of 2010, and was as well praised in the German and English critique:",
+					"c6": "<i>“It is fascinating to hear Edna Stern’s perfect, mature and effortless technique, which she does not however use for the purpose of bragging, but puts discreetly at the service of music. She succeeds to the extent of completely disappearing behind the music… developing a whole unexpected wealth of nuances and a variety of tone colors. …a spontaneous joyful playing with beauty and respect: my Mozart- Ideal through this CD has become much closer.”</i> - <b>Bayrische Rundfunk, 2010</b>",
+					"c7": "<i>“This is an artist with a delicate touch who likes to shape every detail of phrasing and articulation as if polishing a tiny gem.”</i> - <b>Gramophone Magazine, 2011</b>",
+					"c8": "Edna Stern has a special interest in interpreting and rediscovering forgotten composers. Her recording “Piano of Enlightenment” presented the music of nowadays under-estimated composers such as Galuppi and C.P. E. Bach alongside pieces by J.S. Bach, Haydn and Mozart. Her latest Montgeroult recording published by Orchid Classics was awarded a Critic’s Choice of the Year 2017 by Gramophone Magazine and Choice France Musique. BBC Magazine writes: <i>“Stern, playing and 1860 Pleyel trumps Bruno Robillard and Nicolas Stavy’s recordings in colour, style and panache. Textures shimmer in the Etude No. 37, the melody speaks eloquently in No. 26 and in the D minor Op. 107, the shades of Chopin Revolutionary Etude are made obvious.”</i> And Gramophone: <i>“Edna Stern deserves the highest praise for resurrecting it, and has the fleet fingers and sensitive musicianship necessary to make the very best case for it.”</i>",
+					"c9": "A very meaningful and important program she has been playing these last few years features Sonatas written by Jewish Composers from Theresinstadt. She has been the first to perform and record Karel Reiner’s 2nd Piano Sonata “Victory”. Her performance in New York earned her an immediate invitation to perform in Los Angeles at the Colburn School of Music as part of the “Recovered Voices” project of James Conlon.",
+					"c10": "Edna Stern recorded fifteen albums spanning the Baroque (3x J.S. Bach, C.P.E. Bach), Classical (Mozart Concerti, Piano of Enlightenment, 3x Beethoven Sonatas, Montgeroult, Johann Simon Mayr Concerti) Romantic (Schumann, 2xChopin) and 20th century (Fire of Black and White album) periods."
+				}
+			}
+		}
+	},
+	"collaborations": {
+		"meta": {
+			"title": "Edna Stern | Collaborations",
+			"description": "Edna Stern regularly plays recitals with her friend Agnès Letestu, Leading Principal Dancer/Étoile from the Paris Opera."
+		},
+		"titre": "The transfigured Bac(k)h with Agnès Letestu, Étoile/Principal Leading Dancer from the Paris National Opera Ballet.",
+		"description": "Agnès Letestu and Edna Stern conceived this show together and interpret it with a strong connivance, creating thus a complete symbiosis between music and dance."
+	},
+	"contact": {
+		"meta": {
+			"title": "Edna Stern | Contact",
+			"description": "Edna Stern, pianist, fortepiano and authentic instruments performer, chamber musician and soloist"
+		}
+	}
+
+}
