@@ -5,7 +5,7 @@
   				<img class="w-100" src="~/assets/images/edna-stern-red-sweater.jpg" alt="edna stern red sweater">
 			</div>
 			<div class="col-md-8 col-12 d-flex align-items-center p-md-0 p-3 text-center">
-				<h3 class="font-weight-normal" v-html="$t('programs.title')"></h3>
+				<h1 class="font-weight-normal" v-html="$t('programs.title')"></h1>
 			</div>
 		</div>
 		<!-- <div v-for="article in articles" :key="article.title" class="border p-3 my-md-5 my-3">

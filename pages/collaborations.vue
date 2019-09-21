@@ -1,9 +1,9 @@
 <template>
-	<section class="collabs my-md-5 my-3">
+	<section class="collabs open-sans-font my-md-5 my-3">
 		<div class="container mt-3">
       <!-- <b-tabs content-class="mt-3" fill>
         <b-tab title="Agnès Letestu, Étoile/Principal Leading Dancer from the Paris National Opera Ballet"> -->
-          <h2 class="mt-3 text-center">{{ $t('collaborations.titre') }}</h2>
+          <h1 class="mt-3 text-center">{{ $t('collaborations.titre') }}</h1>
         	<div class="my-3 p-3">
             <img class="w-100" src="~/assets/images/agnes-letestu-edna-stern-spectacle.jpg" alt="agnes letestu edna stern spectacle">
           </div>
@@ -85,6 +85,10 @@
       background-color: white;
       color: black !important;
     }
+
+	.open-sans-font {
+	font-family: 'Open Sans', sans-serif;
+}
   }
   
 </style>
