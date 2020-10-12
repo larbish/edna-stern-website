@@ -4,23 +4,11 @@
 			<div class="col-md-4 col-12">
   				<img class="w-100" src="~/assets/images/edna-stern-red-sweater.jpg" alt="edna stern red sweater">
 			</div>
-			<div class="col-md-8 col-12 d-flex align-items-center p-md-0 p-3 text-center">
-				<h1 class="font-weight-normal" v-html="$t('programs.title')"></h1>
+			<div class="col-md-8 col-12 p-md-0 p-3">
+				<h1 class="mb-3" v-html="$t('programs.title')"></h1>
+				<p class="font-weight-normal" v-html="$t('programs.description')"></p>
 			</div>
 		</div>
-		<!-- <div v-for="article in articles" :key="article.title" class="border p-3 my-md-5 my-3">
-			<h2 class="font-weight-bold">{{ article.title }}</h2>
-			<div class="my-3">
-				<p v-for="content in article.contents" :key="content">
-					{{ content }}
-				</p>
-			</div>
-			<ul class="my-3">
-				<li v-for="work in article.works" :key="work">
-					{{ work }}
-				</li>
-			</ul>
-		</div> -->
 	</section>
 </template>
 

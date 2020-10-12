@@ -16,12 +16,6 @@
 					</div>
 				</div>
 			</div>
-			<div class="row mt-md-3 mt-0 p-3">
-				<p>{{ $t('recordings.next.title') }}</p>
-				<ul>
-					<li v-html="$t('recordings.next.r1')"></li>
-				</ul>
-			</div>
 			<div class="row mt-md-5 mt-0 p-3">
 				<h1 class="lato-font mb-3 text-uppercase">{{ $t('recordings.records.title') }}</h1>
 				<div class="container-fluid">
@@ -54,6 +48,19 @@
 		data() {
 			return {
 				records: [
+					{
+						image: {
+							name: 'mayr-haydn-georgisches-kammerorchester-ingolstadt-ruben-gazarian-edna-stern.jpg',
+							alt: 'Mayr Haydn | Georgisches Kammerorchester Ingolstadt | Ruben Gazarian | Edna Stern'
+						},
+						description: {
+							critics: [
+								this.$t('recordings.records.r0.quotes.q1'),
+							]
+						},
+						prizes: []
+	
+					},
 					{
 						image: {
 							name: 'disque-the-young-beethoven.png',

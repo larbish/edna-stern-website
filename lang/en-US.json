@@ -52,6 +52,11 @@
 		},
 		"records": {
 			"title": "Records",
+			"r0": {
+				"quotes": {
+					"q1": "“Pianist Edna Stern dedicates her eminent abilities not only to canonised music from Bach to Brahms, but devotes herself also to less known masters. After extensive studies in Tel-Aviv with Neuhaus-pupil Viktor Derevianko and in Basel with Krystian Zimerman, she discovered the fortepiano encouraged by Andreas Staier. This becomes evident in her congenial recordings of works by Galuppi, C.P.E. Bach or Hélène de Montgeroult, a pupil of Clementi and Dussek. Now she has recorded the two Piano Concerti by Johann Simon Mayr with the Georgian Chamber Orchestra under the direction of Ruben Gazarian (Ars/Note 1). Her affectionate interpretation brings delightful charm but at the same time dramatic urgency.“ <b>Frankfurter Allgemeine Zeitung July 2020</b>"
+				}
+			},
 			"r1": {
 				"title": "<b>The Young Ludwig van Beethoven 3 Sonatas Op. 10:</b> To be released by the label AudioNote Music in February 2020"
 			},
@@ -155,7 +160,8 @@
 			"title": "Edna Stern | Programs",
 			"description": "Edna Stern, pianist, fortepiano and authentic instruments performer, chamber musician and soloist"
 		},
-		"title": "I enjoy playing in concerts all those programs and pieces I have recorded, and I also like to create new programs and new combinations suiting the wishes, thematics and context. For more information, please contact my agent: <b>contact@con-anima-agency.com</b> - <b>+33 6 03 49 69 50.</b>"
+		"title": "Programs",
+		"description": "I enjoy playing in concerts all those programs and pieces I have recorded, and I also like to create new programs and new combinations suiting the wishes, thematics and context. For more information, please contact my agent: <b>contact@con-anima-agency.com</b> - <b>+33 6 03 49 69 50.</b>"
 	},
 	"biography": {
 		"meta": {

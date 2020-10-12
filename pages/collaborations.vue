@@ -1,8 +1,6 @@
 <template>
 	<section class="collabs open-sans-font my-md-5 my-3">
 		<div class="container mt-3">
-      <!-- <b-tabs content-class="mt-3" fill>
-        <b-tab title="Agnès Letestu, Étoile/Principal Leading Dancer from the Paris National Opera Ballet"> -->
           <h1 class="mt-3 text-center">{{ $t('collaborations.titre') }}</h1>
         	<div class="my-3 p-3">
             <img class="w-100" src="~/assets/images/agnes-letestu-edna-stern-spectacle.jpg" alt="agnes letestu edna stern spectacle">
@@ -16,9 +14,6 @@
           <div class="d-flex justify-content-center">
             <youtube video-id="eWgNUhFBYH8"></youtube>
           </div>
-        <!-- </b-tab>
-        <b-tab title="Amos Gitaï, film director, stage director"><p>Amos Gitai content</p></b-tab>
-      </b-tabs> -->
     </div>
 	</section>
 </template>
