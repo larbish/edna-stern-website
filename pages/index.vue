@@ -3,7 +3,6 @@
 		<div class="container my-md-5 my-3">
 			<h1 class="text-center font-weight-bold text-uppercase">Edna Stern</h1>
 			<h2 class="text-muted text-center">{{ $t('home.title') }}</h2>
-			<!-- <h2 class="text-muted text-center">uesh</h2> -->
 		</div>
 		<div class="container-fluid josefine-font text-black">
 			<div class="row mx-3">
@@ -101,7 +100,6 @@ export default {
 }
 
 .josefine-font {
-	/* font-family: 'Dancing Script', sans-serif; */
 	font-style: italic;
 }
 </style>

@@ -1,7 +1,21 @@
 <template class="header-css">
 	<div class="header-shadow">
 	<nuxt-link :to="localePath('index')">
-  		<img class="w-100" src="~/assets/images/edna-stern-playing-piano.jpg" alt="edna stern playing piano">
+		<div class="w-100 position-relative">
+			<img class="w-100" src="~/assets/images/edna-stern-playing-piano.jpg" alt="edna stern playing piano">
+			<div class="baner fixed-bottom" v-if="displayBaner">
+				<div class="d-flex justify-content-between py-md-3">
+					<div></div>
+					<div class="m-3 m-md-0 text-center">
+						<span>{{ $t('header.baner') }}</span>
+						<a :href="`mailto:${mail}`" class="mail text-black font-weight-bold">{{ mail }}</a>
+					</div>
+					<div v-on:click="closeBaner()">
+						<fa class="m-2 m-md-0 mr-md-5" :icon="['fa', 'times']" />
+					</div>
+				</div>
+			</div>
+		</div>
 	</nuxt-link>
 		<section class="header-container">
 			<b-navbar class="header-height" toggleable="md"  variant="faded" type="light">
@@ -50,13 +64,40 @@
 </template>
 
 <script>
-export default {}
+export default {
+	data() {
+		return {
+			mail: 'ednastern.luna@gmail.com',
+			displayBaner: true
+		} 
+	},
+	methods: {
+		closeBaner() {
+			this.displayBaner = false;
+		}
+  	}
+
+}
 </script>
 
 <style lang="scss">	
 	@import '../assets/scss/variables.scss';
 
-	.lang:hover {
+	.baner {
+		color: black;
+		background-color: white;
+		-moz-box-shadow: 0px -5px 5px grey;
+		-webkit-box-shadow:0px -5px 5px grey;
+		box-shadow: 0px -5px 5px grey;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 14px;
+
+		@media (min-width: 992px) { 
+			font-size: 18px;
+		}
+    }
+
+	.lang:hover, .mail:hover {
 		text-decoration: none;
 		color: black;
 	}

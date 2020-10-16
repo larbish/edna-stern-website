@@ -82,8 +82,8 @@
     }
 
 	.open-sans-font {
-	font-family: 'Open Sans', sans-serif;
-}
+		font-family: 'Open Sans', sans-serif;
+	}
   }
   
 </style>

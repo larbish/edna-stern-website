@@ -1,12 +1,14 @@
-{	
+{
 	"menu" : {
 		"home": "home",
 		"recordings": "recordings",
 		"listen": "Listen",
 		"collaborations": "collaborations",
 		"programs": "programs",
-		"biography": "biography",
 		"contact": "contact"
+	},
+	"header" : {
+		"baner": "In view of the situation, I started to give online lessons on Zoom, if interested write to "
 	},
 	"home": {
 		"meta": {
