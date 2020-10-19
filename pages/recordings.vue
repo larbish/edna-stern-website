@@ -54,6 +54,7 @@
 							alt: 'Mayr Haydn | Georgisches Kammerorchester Ingolstadt | Ruben Gazarian | Edna Stern'
 						},
 						description: {
+							recordInfo: this.$t('recordings.records.r0.title'),
 							critics: [
 								this.$t('recordings.records.r0.quotes.q1'),
 							]

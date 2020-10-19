@@ -1,22 +1,22 @@
 <template class="header-css">
 	<div class="header-shadow">
-	<nuxt-link :to="localePath('index')">
-		<div class="w-100 position-relative">
+	<div class="w-100 position-relative">
+		<nuxt-link :to="localePath('index')">
 			<img class="w-100" src="~/assets/images/edna-stern-playing-piano.jpg" alt="edna stern playing piano">
-			<div class="baner fixed-bottom" v-if="displayBaner">
-				<div class="d-flex justify-content-between py-md-3">
-					<div></div>
-					<div class="m-3 m-md-0 text-center">
-						<span>{{ $t('header.baner') }}</span>
-						<a :href="`mailto:${mail}`" class="mail text-black font-weight-bold">{{ mail }}</a>
-					</div>
-					<div v-on:click="closeBaner()">
-						<fa class="m-2 m-md-0 mr-md-5" :icon="['fa', 'times']" />
-					</div>
+		</nuxt-link>
+		<div class="baner w-100" v-if="displayBaner">
+			<div class="d-flex justify-content-between py-md-3">
+				<div></div>
+				<div class="m-3 m-md-0 text-center">
+					<span>{{ $t('header.baner') }}</span>
+					<a :href="`mailto:${mail}`" class="mail text-black font-weight-bold">{{ mail }}</a>
+				</div>
+				<div v-on:click="closeBaner()">
+					<fa class="m-2 m-md-0 mr-md-5" :icon="['fa', 'times']" />
 				</div>
 			</div>
 		</div>
-	</nuxt-link>
+	</div>
 		<section class="header-container">
 			<b-navbar class="header-height" toggleable="md"  variant="faded" type="light">
 
@@ -86,14 +86,22 @@ export default {
 	.baner {
 		color: black;
 		background-color: white;
-		-moz-box-shadow: 0px -5px 5px grey;
-		-webkit-box-shadow:0px -5px 5px grey;
-		box-shadow: 0px -5px 5px grey;
+		-moz-box-shadow: 0px -5px 5px grey, 0px 5px 5px grey;
+		-webkit-box-shadow:0px -5px 5px grey, 0px 5px 5px grey;
+		box-shadow: 0px -5px 5px grey, 0px 5px 5px grey;
 		font-family: 'Open Sans', sans-serif;
 		font-size: 14px;
+		position: fixed;
+		right: 0px;
+		z-index: 100;
+
+		@media (max-width: 992px) { 
+			bottom: 0px;
+		}
 
 		@media (min-width: 992px) { 
 			font-size: 18px;
+			top: 0px;
 		}
     }
 

@@ -5,6 +5,7 @@
 		"listen": "Listen",
 		"collaborations": "collaborations",
 		"programs": "programs",
+		"biography": "biography",
 		"contact": "contact"
 	},
 	"header" : {
@@ -55,6 +56,7 @@
 		"records": {
 			"title": "Records",
 			"r0": {
+				"title": "<b>Johann Simon Mayr: Piano Concerti</b> Recorded in 2019 in Ingolstadt, published by ARS/Note1",
 				"quotes": {
 					"q1": "“Pianist Edna Stern dedicates her eminent abilities not only to canonised music from Bach to Brahms, but devotes herself also to less known masters. After extensive studies in Tel-Aviv with Neuhaus-pupil Viktor Derevianko and in Basel with Krystian Zimerman, she discovered the fortepiano encouraged by Andreas Staier. This becomes evident in her congenial recordings of works by Galuppi, C.P.E. Bach or Hélène de Montgeroult, a pupil of Clementi and Dussek. Now she has recorded the two Piano Concerti by Johann Simon Mayr with the Georgian Chamber Orchestra under the direction of Ruben Gazarian (Ars/Note 1). Her affectionate interpretation brings delightful charm but at the same time dramatic urgency.“ <b>Frankfurter Allgemeine Zeitung July 2020</b>"
 				}
