@@ -5,11 +5,11 @@
 			<img class="w-100" src="~/assets/images/edna-stern-playing-piano.jpg" alt="edna stern playing piano">
 		</nuxt-link>
 		<div class="baner w-100" v-if="displayBaner">
-			<div class="d-flex justify-content-between py-md-3">
+			<div class="d-flex justify-content-between p-3">
 				<div></div>
 				<div class="m-3 m-md-0 text-center">
 					<span>{{ $t('header.baner') }}</span>
-					<a :href="`mailto:${mail}`" class="mail text-black font-weight-bold">{{ mail }}</a>
+					<a :href="`mailto:${mail}`" class="mail text-black fw-bold">{{ mail }}</a>
 				</div>
 				<div v-on:click="closeBaner()">
 					<fa class="m-2 m-md-0 mr-md-5" :icon="['fa', 'times']" />
@@ -22,7 +22,7 @@
 
 				<b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
-				<b-collapse is-nav id="nav_collapse">
+				<b-collapse is-nav id="nav_collapse" class="d-flex justify-content-between">
 					<!-- Right aligned nav items -->
 					<b-navbar-nav class="ml-auto">
 						<!-- DESKTOP -->

@@ -1,20 +1,12 @@
 <template>
 	<section>
 		<div class="container my-3 open-sans-font">
-			<div class="row">
-				<div class="col-md-4 col-12 d-flex align-items-center">
-					<div class="p-3">
-  						<img class="w-100" src="~/assets/images/edna-stern-black-shirt.jpg" alt="edna stern recordingss">
-					</div>
-				</div>
-				<div class="col-md-8 col-12 p-md-5 p-3 d-flex align-items-center">
-					<div>
-						<h3 class="lato-font font-weight-bold">{{ $t('recordings.title') }}</h3>
-						<p>{{ $t('recordings.p1') }}</p>
-						<p>{{ $t('recordings.p2') }}</p>
-						<p>{{ $t('recordings.p3') }}</p>
-					</div>
-				</div>
+			<img class="w-100" src="~/assets/images/edna-stern-banner.jpg" alt="edna stern recordings">
+			<div class="mt-5">
+				<h3 class="lato-font font-weight-bold">{{ $t('recordings.title') }}</h3>
+				<p>{{ $t('recordings.p1') }}</p>
+				<p>{{ $t('recordings.p2') }}</p>
+				<p>{{ $t('recordings.p3') }}</p>
 			</div>
 			<div class="row mt-md-5 mt-0 p-3">
 				<h1 class="lato-font mb-3 text-uppercase">{{ $t('recordings.records.title') }}</h1>
@@ -48,6 +40,20 @@
 		data() {
 			return {
 				records: [
+					{
+						image: {
+							name: 'disque-schubert-on-tape.png',
+							alt: 'Schubert | On tape | Edna Stern'
+						},
+						description: {
+							recordInfo: this.$t('recordings.records.r15.title'),
+							critics: [
+								this.$t('recordings.records.r15.quotes.q1'),
+							]
+						},
+						prizes: []
+	
+					},
 					{
 						image: {
 							name: 'mayr-haydn-georgisches-kammerorchester-ingolstadt-ruben-gazarian-edna-stern.jpg',
