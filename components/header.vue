@@ -12,7 +12,7 @@
 					<a :href="`mailto:${mail}`" class="mail text-black fw-bold">{{ mail }}</a>
 				</div>
 				<div v-on:click="closeBaner()">
-					<fa class="m-2 m-md-0 mr-md-5" :icon="['fa', 'times']" />
+					<fa class="m-2 m-md-0 mr-md-5 fs-3" :icon="['fa', 'times']" />
 				</div>
 			</div>
 		</div>
@@ -238,6 +238,11 @@ export default {
 			-webkit-animation-name: dropdown-menu;
 			animation-name: dropdown-menu;
 		}
+	}
+
+	.fs-3 {
+		width: 15px;
+		cursor: pointer;
 	}
 
 </style>

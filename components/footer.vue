@@ -38,7 +38,7 @@
 }
 
 .mr-2 {
-	font-size: 15px;
+	width: 15px;
 	margin-left: 5px;
 	margin-right: 5px;
 }
