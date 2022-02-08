@@ -20,9 +20,9 @@
 		<section class="header-container">
 			<b-navbar class="header-height" toggleable="md"  variant="faded" type="light">
 
-				<b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
+				<b-navbar-toggle target="nav_collapse" class="mx-3"></b-navbar-toggle>
 
-				<b-collapse is-nav id="nav_collapse" class="d-flex justify-content-between">
+				<b-collapse is-nav id="nav_collapse" class="mx-3 d-md-flex justify-content-between">
 					<!-- Right aligned nav items -->
 					<b-navbar-nav class="ml-auto">
 						<!-- DESKTOP -->
@@ -54,7 +54,7 @@
 
 				</b-collapse>
 
-				<div class="ml-5 px-3 border d-block d-md-none">
+				<div class="ml-5 mx-3 px-3 border d-block d-md-none">
 					<nuxt-link class="lang text-black" :to="switchLocalePath('en')">EN</nuxt-link> /
 					<nuxt-link class="lang text-black" :to="switchLocalePath('fr')">FR</nuxt-link>
 				</div>
