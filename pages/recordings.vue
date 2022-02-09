@@ -26,6 +26,9 @@
 								<p class="font-italic" v-for="(critic, index) in record.description.critics" :key="'critic_' + index">
 									<span v-html="critic"></span>
 								</p>
+								<p class="font-italic" v-for="(link, index) in record.description.links" :key="'link_' + index">
+									<a :href="link" target="_blank">{{ link }}</a>
+								</p>
 							</div>
 						</div>
 					</div>
@@ -47,8 +50,9 @@
 						},
 						description: {
 							recordInfo: this.$t('recordings.records.r15.title'),
-							critics: [
+							links: [
 								this.$t('recordings.records.r15.quotes.q1'),
+								this.$t('recordings.records.r15.quotes.q2')
 							]
 						},
 						prizes: []
