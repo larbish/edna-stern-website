@@ -7,11 +7,7 @@
 			</div>
 			<div class="pr-4 d-flex align-items-center">
 				<fa class="mr-2" :icon="['fa', 'pencil-alt']" />
-				<span>contact@con-anima-agency.com</span>
-			</div>
-			<div class="pr-4 d-flex align-items-center">
-				<fa class="mr-2" :icon="['fa', 'phone']" />
-				<span>+33 6 03 49 69 50</span>
+				<span>ednastern.luna@gmail.com</span>
 			</div>
 		</div>
 		<div class="d-md-none d-flex footer flex-column justify-content-center text-center py-3">
@@ -21,11 +17,7 @@
 			</div>
 			<div>
 				<fa class="mr-2" :icon="['fa', 'pencil-alt']" />
-				<span>contact@con-anima-agency.com</span>
-			</div>
-			<div>
-				<fa class="mr-2" :icon="['fa', 'phone']" />
-				<span>+33 6 03 49 69 50</span>
+				<span>ednastern.luna@gmail.com</span>
 			</div>
 		</div>
   	</section>

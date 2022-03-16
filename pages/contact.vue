@@ -4,15 +4,7 @@
 			<h1 class="font-weight-bold">Management: Con Anima Agency</h1>
 			<div class="d-flex align-items-center">
 				<fa class="mr-2" :icon="['fa', 'pencil-alt']" />
-				<span>contact@con-anima-agency.com</span>
-			</div>
-			<div class="d-flex align-items-center">
-				<fa class="mr-2" :icon="['fa', 'globe']" />
-				<a class="text-black" href="https://www.con-anima-agency.com/en" target="blank">www.con-anima-agency.com</a>
-			</div>
-			<div class="d-flex align-items-center">
-				<fa class="mr-2" :icon="['fa', 'phone']" />
-				<span>+33 6 03 49 69 50</span>
+				<span>ednastern.luna@gmail.com</span>
 			</div>
 			<hr>
 			<div class="d-flex align-items-center">
